@@ -1,0 +1,10 @@
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\bin\Debug\Mesai-Hesapla.exe.config
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\bin\Debug\Mesai-Hesapla.exe
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\bin\Debug\Mesai-Hesapla.pdb
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai-Hesapla.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai_Hesapla.Form1.resources
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai_Hesapla.Properties.Resources.resources
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai-Hesapla.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai-Hesapla.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai-Hesapla.exe
+C:\Users\hasan\source\repos\Mesai-Hesapla\Mesai-Hesapla\obj\Debug\Mesai-Hesapla.pdb

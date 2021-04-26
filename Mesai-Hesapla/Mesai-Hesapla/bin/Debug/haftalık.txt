@@ -1,0 +1,5 @@
+
+AD:  Deneme
+SOYAD:  Deneme
+Tarih:  Deneme
+Saat:  Deneme
